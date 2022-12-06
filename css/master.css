@@ -1,0 +1,11 @@
+.d-flex{
+    display: flex;
+}
+
+.jc-c {
+    justify-content: center;
+}
+
+.g-1 {
+    gap: 16px;
+}
